@@ -1,0 +1,10 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.fHouse.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -1,0 +1,10 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\bin\Debug\FactoryMethod3DShapes.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\bin\Debug\FactoryMethod3DShapes.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\bin\Debug\FactoryMethod3DShapes.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.f3DShapes.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\FactoryMethod_Pattern\FactoryMethod3DShapes\FactoryMethod3DShapes\obj\Debug\FactoryMethod3DShapes.pdb
