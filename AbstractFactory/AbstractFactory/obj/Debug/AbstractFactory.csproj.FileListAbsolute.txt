@@ -1,0 +1,10 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\MailAbstractFactory.fMail.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Замовлення\Діма\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
